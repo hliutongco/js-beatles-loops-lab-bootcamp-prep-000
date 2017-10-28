@@ -24,4 +24,3 @@ var i=0;
   } while(i<=num && num<15)
 return array;
 }
-
